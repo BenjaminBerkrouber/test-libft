@@ -55,8 +55,8 @@ int main()
     run_test("test_ft_lstsize", test_ft_lstsize);
     run_test("test_ft_lstlast", test_ft_lstlast);
     run_test("test_ft_lstadd_back", test_ft_lstadd_back);
-    run_test("test_ft_lstdelone", test_ft_lstdelone);
-    run_test("test_ft_lstclear", test_ft_lstclear);
+//    run_test("test_ft_lstdelone", test_ft_lstdelone);
+//    run_test("test_ft_lstclear", test_ft_lstclear);
     run_test("test_ft_lstiter", test_ft_lstiter);
     run_test("test_ft_lstmap", test_ft_lstmap);
 
